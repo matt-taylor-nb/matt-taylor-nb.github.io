@@ -1,0 +1,182 @@
+{
+    "basics": {
+      "name": "Matthew Taylor",
+      "label": "Software Engineer - Devops",
+      "picture": "https://avatars1.githubusercontent.com/u/33817771?s=460&v=4",
+      "email": "matt@mrtaylor.ca",
+      "phone": "(506) 875-8490",
+      "summary": "A highly motivated Devops team member with great time management skills looking to leverage my 13 years of experience to help a company efficiently operate in a private or public cloud at scale.",
+      "location": {
+        "city": "Moncton",
+        "countryCode": "Canada",
+        "region": "New Brunswick"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "matt-taylor-nb",
+          "url": "https://www.linkedin.com/in/matt-taylor-nb"
+        },
+        {
+          "network": "GitHub",
+          "username": "matt-taylor-nb",
+          "url": "https://github.com/matt-taylor-nb"
+        }
+      ]
+    },
+    "work": [
+        {
+            "company": "Akiri",
+            "position": "Software Engineer - Devops",
+            "website": "https://akiri.com",
+            "startDate": "2017-02-13",
+            "summary": "Akiri developed the world's first network-as-a-service (NaaS) to securely move healthcare data across organization divide. As an early employee Matt helped to architect, deploy, and operate the infrastructure as well as to build tooling to aide developers in building, deploying, and testing.",
+            "highlights": [
+                "Design, Build, and Maintain Akiri's Disaster Recovery Process",
+                "Lead Akiri's AWS Security Posture",
+                "Developed tools for developers to use to build, deploy, and test code",
+                "Ensure our supporting infrastructure ",
+                "Supported our Staging and Production environments",
+                "Built Jenkins pipelines to allow for automated PR tests and code-deploys to different environment.",
+                ""
+            ]
+        },
+        {
+            "company": "Skillsoft",
+            "position": "Senior Cloud Solutions Architect/Platform Analyst",
+            "website": "https://skillsoft.com",
+            "startDate": "2015-08-01",
+            "endDate": "2017-02-10",
+            "summary": "",
+            "highlights": [
+                "Planning, designing, implementing, and supporting an Openshift based containerized microservice SaaS hosted in a hybrid cloud (In our datacenter and AWS) running on RedHat 7.3.",
+                "Maintained a container platform that is highly available and easily scalable, maintained, and upgraded while remaining online.",
+                "Document and diagram environment deployments and communication flow.",
+                "Write, maintain, and support Ansible playbooks to ensure standardized configuration and deployment.",
+                "Manage agile software deployments with Ansible and Ansible Tower.",
+                "Write and support Terraform scripts to manage our public cloud and CDN deployments.",
+                "Maintain our git installation and ensure our infrastructure as code and other scripts are version controlled.",
+                "Experience with Akamai, Fastly, and custom-built content delivery networks.",
+                "Ran training sessions for other people in Operations on containers, Kubernetes, Openshift, and other aspects of a micro-service deployment.",
+                "Set up monitoring and log collection via Splunk, New Relic, CloudForms, Sentry, and more.",
+                "Experience in running Elasticsearch, Kafka, FluentD, Cassandra, Redis, RabbitMQ and more both on and off platform in a production environment."
+            ]
+        },
+        {
+            "company": "Skillsoft",
+            "position": "Hosting Application Engineer",
+            "website": "https://skillsoft.com",
+            "startDate": "2011-12-01",
+            "endDate": "2015-08-01",
+            "summary": "",
+            "highlights": [
+                "Worked primarily with our CDNs both custom-built in private and public clouds along with purchased CDN services.",
+                "Deployed software patches to our legacy product via a manual process.",
+                "Took steps to automate much of the manual patching process.",
+                "Handled the weekly content release process for new content.",
+                "Developed a set of scripts to automate a lot of the work.",
+                "Experience with Attunity data replication products for large enterprise data replication and file moves.",
+                "Worked a 24/7 on-call rotation and was an escalation point for after-hours outages."
+            ]
+        },
+        {
+            "company": "Skillsoft",
+            "position": "Hosting Support Specialist",
+            "website": "https://skillsoft.com",
+            "startDate": "2007-11-27",
+            "endDate": "2011-12-01",
+            "summary": "copy/paste",
+            "highlights": [
+                "Primarily responsible for ticket escalations from our technical support contact center.",
+                "Provisioned customer’s online portals and customized them for the specific company.",
+                "Troubleshot issues and fixed them as needed which including writing SQL scripts, gathering performance metrics, and making OS resource adjustments as needed.",
+                "Monitored and resolved outages during normal working hours"
+            ]
+        },
+        {
+            "company": "YouNeedaBudget.com",
+            "position": "Season Customer Support",
+            "website": "https://youneedabudget.com",
+            "startDate": "2017-01-01",
+            "endDate": "2017-03-15",
+            "highlights": [
+                "Worked as a first tier support rep handling email requests for help.",
+                "As many requests for people asking for budget help I was able to write complex explanations concisely while including all the relevant information to help the customer."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "New Brunswick Community College",
+            "area": "Network Design and Administration",
+            "studyType": "Diploma",
+            "startDate": "2005-09-01",
+            "endDate": "2007-06-25",
+            "courses": [
+            "CCNA/CCNP"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "name": "Infrastructure",
+            "keywords": [
+                "Docker",
+                "Kubernetes",
+                "Openshift"
+            ]
+        },
+        {
+            "name": "Programming",
+            "keywords": [
+                "Python",
+                "Bash",
+                "SQL"
+            ]
+        },
+        {
+            "name": "Web Technologies",
+            "keywords": [
+                "JSON",
+                "REST",
+                "HTML"
+            ]
+        },
+        {
+            "name": "Developer Tools",
+            "keywords": [
+                "Git",
+                "VSCode",
+                "JIRA",
+                "Trello"
+            ]
+        },
+        {
+            "name": "Build",
+            "level": "",
+            "keywords": [
+                "Gradle",
+                "Maven",
+                "Jenkins"
+            ]
+        },
+        {
+            "name": "Cloud Platforms",
+            "keywords": [
+                "AWS",
+                "Azure"
+            ]
+        },
+        {
+            "name": "Operating Systems",
+            "keywords": [
+                "Linux",
+                "MacOS",
+                "Windows"
+            ]
+        }
+    ]
+}
+
+
+
