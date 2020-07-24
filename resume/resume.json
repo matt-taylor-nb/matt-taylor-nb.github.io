@@ -158,14 +158,6 @@
             ]
         },
         {
-            "name": "Web Technologies",
-            "keywords": [
-                "JSON",
-                "REST",
-                "HTML"
-            ]
-        },
-        {
             "name": "Developer Tools",
             "keywords": [
                 "Git",
