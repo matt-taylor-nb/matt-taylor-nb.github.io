@@ -44,18 +44,20 @@
             "website": "https://akiri.com",
             "startDate": "2017-02-13",
             "endDate": "2020-03-13",
-            "summary": "Joining Akiri as an early employee allowed Matt to build the tooling, infrastructure, and code base from scratch focusing on efficient testing and updates while maintain a secure environment.",
+            "summary": "Joining Akiri as an early employee allowed Matt to build the tooling, infrastructure, and code base from scratch focusing on efficient testing and updates while maintaining a secure environment.",
             "highlights": [
                 "Design, Built, and Maintained Akiri's Disaster Recovery Process",
                 "Lead Akiri's AWS Security Posture",
                 "Developed internal tools that developers use to build, test, and deploy code",
-                "Build out our infrastructure footprint using Terraform, Python, and scripting to allow for quick deployment, destruction, and updates",
+                "Build out the infrastructure footprint using Terraform, Python, and scripting to allow for quick deployment, destruction, and updates",
+                "Used AWS services when needed to support our deployments. eg: SSM, Secrets manager, KMS, etc",
                 "Ensure our supporting infrastructure was up to date and available",
-                "Supported our Staging and Production environments",
+                "Added Slack bots to provide environment updates",
+                "Support our Staging and Production environments",
                 "Built Jenkins pipelines to allow for automated PR tests and code-deploys to different environment.",
                 "Lead the Akiri HIPAA posture and ensured we were compliant",
-                "Participated in product design and security reviews",
-                "Built tooling to build our Gold AMIs and deployed them for testing nightly via Jenkins jobs"
+                "Participated in product and feature design and security reviews",
+                "Built tooling to build our gold AMIs and deployed them for testing nightly via Jenkins jobs"
             ]
         },
         {
@@ -64,7 +66,7 @@
             "website": "https://skillsoft.com",
             "startDate": "2015-08-01",
             "endDate": "2017-02-10",
-            "summary": "Lead the first combined Developer/Operations squad responsible for the creation and release of Skillsoft's latest product offering",
+            "summary": "Lead the first combined Development/Operations squad responsible for the creation and release of Skillsoft's latest product offering",
             "highlights": [
                 "Planning, designing, implementing, and supporting an Openshift based containerized microservice SaaS hosted in a hybrid cloud (In our datacenter and AWS) running on RedHat",
                 "Maintained a container platform that is highly available and easily scalable, maintained, and upgraded while remaining online",
@@ -151,7 +153,9 @@
                 "Python",
                 "Bash",
                 "SQL",
-                "Terraform"
+                "Terraform",
+                "AWS-CLI",
+                "AWS-SDK (for Python)"
             ]
         },
         {
@@ -168,7 +172,8 @@
                 "Git",
                 "VSCode",
                 "JIRA",
-                "Trello"
+                "Trello",
+                "Slack"
             ]
         },
         {
