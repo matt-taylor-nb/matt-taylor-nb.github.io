@@ -55,7 +55,7 @@
                 "Support our Staging and Production environments",
                 "Built Jenkins pipelines to allow for automated PR tests and code-deploys to different environment.",
                 "Lead the Akiri HIPAA posture and ensured we were compliant",
-                "Participated in product and feature design and security reviews",
+                "Participated in feature design and security reviews",
                 "Built tooling to build our gold AMIs and deployed them for testing nightly via Jenkins jobs",
                 "Ran multiple Kubernetes clusters on EC2 nodes and managed upgrading and testing new versions"
             ]
