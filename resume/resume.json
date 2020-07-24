@@ -43,7 +43,7 @@
             "website": "https://akiri.com",
             "startDate": "2017-02-13",
             "endDate": "2020-03-13",
-            "summary": "Joining Akiri as an early employee allowed Matt to build the tooling, infrastructure, and code base from scratch focusing on efficient testing and updates while maintaining a secure environment.",
+            "summary": "Joining Akiri as an early employee allowed building tooling, infrastructure, and code base from scratch focusing on efficient testing and updates while maintaining a secure environment.",
             "highlights": [
                 "Design, Built, and Maintained Akiri's Disaster Recovery Process",
                 "Lead Akiri's AWS Security Posture",
@@ -56,7 +56,8 @@
                 "Built Jenkins pipelines to allow for automated PR tests and code-deploys to different environment.",
                 "Lead the Akiri HIPAA posture and ensured we were compliant",
                 "Participated in product and feature design and security reviews",
-                "Built tooling to build our gold AMIs and deployed them for testing nightly via Jenkins jobs"
+                "Built tooling to build our gold AMIs and deployed them for testing nightly via Jenkins jobs",
+                "Ran multiple Kubernetes clusters on EC2 nodes and managed upgrading and testing new versions"
             ]
         },
         {
