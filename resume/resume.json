@@ -4,7 +4,7 @@
       "picture": "https://avatars1.githubusercontent.com/u/33817771?s=460&v=4",
       "email": "matt@mrtaylor.ca",
       "phone": "(506) 875-8490",
-      "summary": "A highly motivated Devops team member with great time management skills looking to leverage my 13 years of experience to help a company efficiently operate in a private or public cloud at scale.",
+      "summary": "A highly motivated Devops team member with great time management skills looking to leverage 13 years of experience to help a company efficiently operate in a private or public cloud at scale.",
       "location": {
         "city": "Moncton",
         "countryCode": "Canada",
@@ -29,12 +29,14 @@
             "position": "Manager of Software Engineering",
             "website": "https://akiri.com",
             "startDate": "2020-03-13",
-            "summary": "Lead a team of Software Engineers through milestones and transitions while maintaining a high level of work throughput and quality",
+            "endDate": "2020-07-31",
+            "summary": "Lead a team of Software Engineers through milestones and transitions while maintaining a high level of work throughput and quality.",
             "highlights": [
                 "Worked with product owners and architects to define product requirements and organize priorities",
                 "Communicated with the Engineering team to ensure the priorities were properly organized and work was completed",
                 "Worked with the executive leadership to properly set milestones and reported on our progress",
-                "Handled personnel transitions and promotions"
+                "Handled personnel transitions and promotions",
+                "Ran regular one on one meetings with the team members"
             ]
         },
         {
@@ -45,15 +47,16 @@
             "endDate": "2020-03-13",
             "summary": "Built tooling, infrastructure, and the code base from scratch focusing on efficient testing and updates while maintaining a secure environment.",
             "highlights": [
+                "Build out the infrastructure footprint using Terraform, Python, and scripting to allow for quick deployment, testing, destruction, and updates",
                 "Design, Built, and Maintained Akiri's Disaster Recovery Process",
                 "Lead Akiri's AWS Security Posture",
                 "Developed internal tools that developers use to build, test, and deploy code",
-                "Build out the infrastructure footprint using Terraform, Python, and scripting to allow for quick deployment, destruction, and updates",
-                "Used AWS services when needed to support our deployments. eg: SSM, Secrets manager, KMS, etc",
-                "Ensure our supporting infrastructure was up to date and available",
+                "Used AWS services when needed to support our deployments. eg: ECS, Lambda, SQS, SSM, Secrets manager, KMS, etc",
+                "Ensured our supporting infrastructure was up to date and available",
                 "Added Slack bots to provide environment updates",
-                "Support our Staging and Production environments",
-                "Built Jenkins pipelines to allow for automated PR tests and code-deploys to different environment.",
+                "Supported our Staging and Production environments",
+                "Managed our build infrastructure including Jenkins and github",
+                "Built Jenkins pipelines to allow for automated PR tests and code-deploys to different environments",
                 "Lead the Akiri HIPAA posture and ensured we were compliant",
                 "Participated in feature design and security reviews",
                 "Built tooling to build our gold AMIs and deployed them for testing nightly via Jenkins jobs",
@@ -66,7 +69,7 @@
             "website": "https://skillsoft.com",
             "startDate": "2015-08-01",
             "endDate": "2017-02-10",
-            "summary": "Lead the first combined Development/Operations squad responsible for the creation and release of Skillsoft's latest product offering",
+            "summary": "Lead the first combined Development/Operations squad responsible for the creation and release of Skillsoft's latest product offering.",
             "highlights": [
                 "Planning, designing, implementing, and supporting an Openshift based containerized microservice SaaS hosted in a hybrid cloud (In our datacenter and AWS) running on RedHat",
                 "Maintained a container platform that is highly available and easily scalable, maintained, and upgraded while remaining online",
@@ -104,7 +107,7 @@
             "website": "https://skillsoft.com",
             "startDate": "2007-11-27",
             "endDate": "2011-12-01",
-            "summary": "Front line Operations support",
+            "summary": "Front line Operations support.",
             "highlights": [
                 "Primarily responsible for ticket escalations from our technical support contact center",
                 "Provisioned customer’s online portals and customized them for the specific company",
@@ -133,7 +136,8 @@
                 "Kubernetes",
                 "Openshift",
                 "Vault",
-                "Packer"
+                "Packer",
+                "Various AWS services"
             ]
         },
         {
