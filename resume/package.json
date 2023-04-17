@@ -5,9 +5,8 @@
   "main": "index.js",
   "dependencies": {
     "jsonresume-theme-eloquent": "^4.1.0",
-    "resume-cli": "^1.2.7"
+    "resume-cli": "^1.2.8"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

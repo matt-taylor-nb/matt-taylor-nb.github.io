@@ -4,7 +4,7 @@
       "picture": "https://avatars1.githubusercontent.com/u/33817771?s=460&v=4",
       "email": "matt@mrtaylor.ca",
       "phone": "(506) 875-8490",
-      "summary": "A highly motivated Devops team member with great time management skills looking to leverage 13 years of experience to help a company efficiently operate in a private or public cloud at scale.",
+      "summary": "A highly motivated Devops team member with great time management skills looking to leverage 16 years of experience to help a company efficiently operate in a private or public cloud at scale.",
       "location": {
         "city": "Moncton",
         "countryCode": "Canada",
@@ -24,6 +24,27 @@
       ]
     },
     "work": [
+        {
+            "company": "Cvent",
+            "position": "Lead Cloud Automation Engineer",
+            "website": "https://cvent.com",
+            "startDate": "2020-08-25",
+            "endDate": "",
+            "summary": "Built tooling, infrastructure, and custom applications to empower our organization to run in an efficient, quick, and secure manner.",
+            "highlights": [
+                "Subject Matter Expert and Service Owner for the AWS Identity and Access Management (IAM) Service. Representing the team on the AWS Guild within the company.",
+                "Created and enforced best practices and least priveledge guidelines within our company around AWS IAM.",
+                "Mentored junior teamates who were newly started out their career.",
+                "Built an automation to provision and validate AWS ACM certificates using a third party DNS provider.",
+                "Worked on building and maintaining many automations around IAM, AWS Transit Gateway, AWS State Machines, and more.",
+                "Worked on building and maintaining Jenkins based pipelines including the use of Jenkins Shared Libraries.",
+                "Met and worked with vendors to discuss, trial, and use their solutions effectively.",
+                "Created and held team training sessions on different subject matters.",
+                "Mentored interns assigned to our group throughout their time at Cvent.",
+                "Championed and lead a number of successful cross-team and internal projects.",
+                "Participated in AWS Game Days, Immersion Days, and Service Deep Dives."
+            ]
+        },
         {
             "company": "Akiri",
             "position": "Manager of Software Engineering",
@@ -132,43 +153,47 @@
         {
             "name": "Infrastructure",
             "keywords": [
+                "AWS CDK",
+                "AWS Cloudformation",
                 "Docker",
                 "Kubernetes",
                 "Openshift",
-                "Vault",
                 "Packer",
-                "Various AWS services"
+                "Terraform",
+                "Various AWS services",
+                "Vault"
             ]
         },
         {
             "name": "Programming",
             "keywords": [
-                "Python",
-                "Bash",
-                "SQL",
-                "Terraform",
                 "AWS-CLI",
-                "AWS-SDK (for Python)"
+                "AWS-SDK (for Python)",
+                "Bash",
+                "Groovy",
+                "Python",
+                "SQL",
+                "Typescript"
             ]
         },
         {
             "name": "Developer Tools",
             "keywords": [
                 "Git",
-                "VSCode",
                 "JIRA",
+                "Slack",
                 "Trello",
-                "Slack"
+                "VSCode"
             ]
         },
         {
             "name": "Build",
             "level": "",
             "keywords": [
+                "Ansible",
                 "Gradle",
-                "Maven",
                 "Jenkins",
-                "Ansible"
+                "Maven"
             ]
         },
         {
